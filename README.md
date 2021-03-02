@@ -31,3 +31,5 @@ From workspace root with "workspaces foreach"...
 ➤ YN0000:
 ➤ YN0000: Done in 0s 335ms
 ```
+
+Note difference in results from last two invocations.  (Output FORMAT, the `>YN0000:` is not the issue!)
