@@ -1,0 +1,8 @@
+{
+  "name": "yarn-workspaces-colors",
+  "workspaces": [
+    "./package1"
+  ],
+  "private": true,
+  "scripts": {}
+}
